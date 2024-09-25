@@ -46,6 +46,11 @@
                 }
             }
         },
+        "actor": {
+            "group": "primary",
+            "profile": null,
+            "requirement": "required"
+        },
         "dst_endpoint": {
             "description": "Details about server providing the web resources.",
             "group": "primary",
